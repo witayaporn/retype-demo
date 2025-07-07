@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://retype.maliwan.cloud/sitemap.xml.gz
+Sitemap: /sitemap.xml.gz
