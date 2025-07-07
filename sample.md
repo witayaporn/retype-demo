@@ -1,3 +1,7 @@
+---
+visibility: protected
+---
+
 # Welcome!
 
 This is a paragraph.

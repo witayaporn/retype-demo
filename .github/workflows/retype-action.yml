@@ -16,7 +16,7 @@ jobs:
 
       - uses: retypeapp/action-build@latest
         with:
-          RETYPE_KEY: ${{ secrets.RETYPE_KEY }}
+          key: ${{ secrets.RETYPE_KEY }}
           RETYPE_PASSWORD: ${{ secrets.RETYPE_PASSWORD }}
 
       - uses: retypeapp/action-github-pages@latest
