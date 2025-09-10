@@ -1,5 +1,5 @@
 ---
-visibility: protected
+visibility: public
 ---
 
 # Welcome!
